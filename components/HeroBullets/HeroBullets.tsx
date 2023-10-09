@@ -29,13 +29,14 @@ export function HeroBullets() {
                         }
                     >
                         <List.Item>
-                            <b>Say bye to high fees</b> – We're the most affordable ride-hailing app in the market.
+                            <b>Say bye to high fees</b> – We&apos;re the most affordable ride-hailing app in the market.
                         </List.Item>
                         <List.Item>
                             <b>No more greed</b> – we ensure that our drivers are paid fairly compared to our competitors.
                         </List.Item>
                         <List.Item>
-                            <b>Let's thrive together</b> – we're a community of drivers and riders who believe in fairness and integrity.
+                            
+                            <b>Let&apos;s thrive together</b> – we&apos;re a community of drivers and riders who believe in fairness and integrity.
                         </List.Item>
                     </List>
 
